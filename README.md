@@ -2,7 +2,9 @@
 <h1 align="center">
   <a href="https://Jho-Yonsei.github.io/CoCoGaussian/">CoCoGaussian</a>: Leveraging Circle of Confusion for
   <br />Gaussian Splatting from Defocused Images
-  <br /><img width="40%" src="./assets/crim-gs.gif">
+  <br />
+  <!-- <img width="40%" src="./assets/crim-gs.gif"> -->
+  <img src="./assets/images/teaser.png" width=800>
 </h1>
   <p align="center">
     <a href="https://Jho-Yonsei.github.io/">Jungho Lee</a>&nbsp;&nbsp;
@@ -25,10 +27,18 @@
 <br/>
 <br>
 
-<img src="./assets/images/teaser.png" width=800>
 
 ## Depth of Field Customization
-![Demo Video](./assets/videos/DoF_Customize_Trolley.mp4)
+
+### Customizable Apertur Size
+<video width="600" height="400" controls>
+  <source src="./assets/videos/DoF_Customize_Trolley.mp4" type="video/mp4">
+</video>
+
+### Customizable Focus Plane
+<video width="600" height="400" controls>
+  <source src="./assets/videos/DoF_FocusPlane_Customize_Caps.mp4" type="video/mp4">
+</video>
 
 <!-- ## Main Framework
 <img width="100%" src="./assets/framework.png">
