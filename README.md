@@ -2,20 +2,23 @@
 <h1 align="center">
   <a href="https://Jho-Yonsei.github.io/CoCoGaussian/">CoCoGaussian</a>: Leveraging Circle of Confusion for
   <br />Gaussian Splatting from Defocused Images
-  <br /><br>
+  <br />
   <!-- <img width="40%" src="./assets/crim-gs.gif"> -->
-  <img src="./assets/images/teaser.png" width=800>
 </h1>
   <p align="center">
-    <a href="https://Jho-Yonsei.github.io/">Jungho Lee</a>&nbsp;·&nbsp;
-    <a href="https://suhwan-cho.github.io">Suhwan Cho</a>&nbsp;·&nbsp;
-    <a href="https://taeoh-kim.github.io">Taeoh Kim</a>&nbsp;·&nbsp;
-    <a href="https://scholar.google.co.kr/citations?user=RJZ6W24AAAAJ&hl=en">Ho-Deok Jang</a>&nbsp;·&nbsp;
-    <a href="https://hydragon.co.kr">Minhyeok Lee</a>&nbsp;&nbsp;<br>
-    <a href="https://scholar.google.co.kr/citations?user=1uQa-hoAAAAJ&hl=ko">Geonho Cha</a>&nbsp;·&nbsp;
-    <a href="https://scholar.google.com/citations?user=oEKX8h0AAAAJ&hl=ko">Dongyoon Wee</a>&nbsp;·&nbsp;
-    <a href="https://dogyoonlee.github.io/">Dogyoon Lee</a>&nbsp;·&nbsp;
-    <a href="https://scholar.google.com/citations?user=b7A10VYAAAAJ&hl=ko">Sangyoun Lee</a>&nbsp;&nbsp;
+    <img src="./assets/images/teaser.png" width=800><br><br>
+    <a href="https://Jho-Yonsei.github.io/">Jungho Lee </a><sup>1</sup>&nbsp;·&nbsp;
+    <a href="https://suhwan-cho.github.io">Suhwan Cho </a><sup>1</sup>&nbsp;·&nbsp;
+    <a href="https://taeoh-kim.github.io">Taeoh Kim </a><sup>2</sup>&nbsp;·&nbsp;
+    <a href="https://scholar.google.co.kr/citations?user=RJZ6W24AAAAJ&hl=en">Ho-Deok Jang </a><sup>2</sup>&nbsp;·&nbsp;
+    <a href="https://hydragon.co.kr">Minhyeok Lee</a> <sup>1</sup>&nbsp;&nbsp;<br>
+    <a href="https://scholar.google.co.kr/citations?user=1uQa-hoAAAAJ&hl=ko">Geonho Cha</a> <sup>2</sup>&nbsp;·&nbsp;
+    <a href="https://scholar.google.com/citations?user=oEKX8h0AAAAJ&hl=ko">Dongyoon Wee</a> <sup>2</sup>&nbsp;·&nbsp;
+    <a href="https://dogyoonlee.github.io/">Dogyoon Lee</a> <sup>1</sup>&nbsp;·&nbsp;
+    <a href="https://scholar.google.com/citations?user=b7A10VYAAAAJ&hl=ko">Sangyoun Lee</a> <sup>1</sup>&nbsp;&nbsp;
+  </p>
+  <p align="center">
+    <sup>1</sup> Yonsei University&nbsp;&nbsp;&nbsp;&nbsp;<sup>2</sup> Naver Cloud
   </p>
   <p align="center">
     <a href="https://Jho-Yonsei.github.io/CoCoGaussian"><img src="https://img.shields.io/badge/CoCoGaussian-ProjectPage-blue.svg"></a>
