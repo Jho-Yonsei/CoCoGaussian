@@ -30,15 +30,17 @@
 
 ## Depth of Field Customization
 
-### Customizable Apertur Size
-<video width="600" height="400" controls>
-  <source src="./assets/videos/DoF_Customize_Trolley.mp4" type="video/mp4">
-</video>
+### Customizable Aperture Size
+
+https://github.com/user-attachments/assets/c17023d6-2c64-4da8-b4b3-93f76fcc864c
+
+
 
 ### Customizable Focus Plane
-<video width="600" height="400" controls>
-  <source src="./assets/videos/DoF_FocusPlane_Customize_Caps.mp4" type="video/mp4">
-</video>
+
+https://github.com/user-attachments/assets/3018ee05-d3d1-4ef2-98f7-0b8dc6a24698
+
+
 
 <!-- ## Main Framework
 <img width="100%" src="./assets/framework.png">
