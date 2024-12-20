@@ -9,9 +9,6 @@
   <p align="center">
     <a href="https://Jho-Yonsei.github.io/">Jungho Lee</a>&nbsp;·&nbsp;
     <a href="https://suhwan-cho.github.io">Suhwan Cho</a>&nbsp;·&nbsp;
-    <a href="https://taeoh-kim.github.io">Taeoh Kim</a>&nbsp;&nbsp;
-    <a href="https://scholar.google.co.kr/citations?user=RJZ6W24AAAAJ&hl=en">Ho-Deok Jang</a>&nbsp;·&nbsp;
-    <a href="https://hydragon.co.kr">Minhyeok Lee</a>&nbsp;·&nbsp;<br>
     <a href="https://taeoh-kim.github.io">Taeoh Kim</a>&nbsp;·&nbsp;
     <a href="https://scholar.google.co.kr/citations?user=RJZ6W24AAAAJ&hl=en">Ho-Deok Jang</a>&nbsp;·&nbsp;
     <a href="https://hydragon.co.kr">Minhyeok Lee</a>&nbsp;&nbsp;<br>
