@@ -18,7 +18,7 @@
     <a href="https://scholar.google.com/citations?user=b7A10VYAAAAJ&hl=ko">Sangyoun Lee</a> <sup>1</sup>&nbsp;&nbsp;
   </p>
   <p align="center">
-    <sup>1</sup> Yonsei University&nbsp;&nbsp;&nbsp;&nbsp;<sup>2</sup> Naver Cloud
+    <sup>1</sup> Yonsei University&nbsp;&nbsp;&nbsp;&nbsp;<sup>2</sup> NAVER Cloud
   </p>
   <p align="center">
     <a href="https://Jho-Yonsei.github.io/CoCoGaussian"><img src="https://img.shields.io/badge/CoCoGaussian-ProjectPage-blue.svg"></a>
