@@ -22,7 +22,7 @@
   </p>
   <p align="center">
     <a href="https://Jho-Yonsei.github.io/CoCoGaussian"><img src="https://img.shields.io/badge/CoCoGaussian-ProjectPage-blue.svg"></a>
-    <a href="https://Jho-Yonsei.github.io/CoCoGaussian"><img src="https://img.shields.io/badge/CoCoGaussian-arXiv-red.svg"></a>
+    <a href="https://arxiv.org/abs/2412.16028"><img src="https://img.shields.io/badge/CoCoGaussian-arXiv-red.svg"></a>
     <a href="https://Jho-Yonsei.github.io/CoCoGaussian"><img src="https://img.shields.io/badge/CoCoGaussian-Dataset-green.svg"></a>
 </p>
   <div align="center"></div>
